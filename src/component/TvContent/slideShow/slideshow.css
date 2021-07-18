@@ -1,0 +1,17 @@
+.slidImgCss{
+    height:80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 12px;
+    margin: 20px;
+}
+.details{
+    background-color: rgba(14, 13, 13, 0.856);
+    padding: 20px;
+    width: 50vw;
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top:50%;
+    left: 50%;
+}

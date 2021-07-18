@@ -1,0 +1,14 @@
+.cardsContainer{
+    display: flex;
+    overflow-x: scroll;
+}
+
+@media(max-width:768px){
+    .cardsContainer{
+        display: flex;
+        overflow-x: scroll;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+}
